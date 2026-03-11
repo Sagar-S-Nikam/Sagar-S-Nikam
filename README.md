@@ -1,64 +1,83 @@
 <h1 align="center">Hi 👋 I'm Sagar Nikam</h1>
-<h3 align="center">Full Stack MERN Developer | Software Engineer Intern at Cognizant</h3>
+
+<h3 align="center">
+Full Stack MERN Developer | Software Engineer Intern at Cognizant
+</h3>
 
 <p align="center">
-🚀 I build modern websites for businesses and startups
+🚀 Building modern websites and web applications for businesses and startups
 </p>
 
-I specialize in developing **high-performance web applications** that help businesses improve their online presence, automate bookings, and increase customer engagement.
+---
+
+<h2 align="center">🚀 What I Do</h2>
+
+<p align="center">
+
+✔ Business Website Development  
+✔ Appointment Booking Systems  
+✔ Full Stack MERN Applications  
+✔ Responsive & User Friendly UI  
+✔ Custom Solutions for Businesses  
+
+</p>
 
 ---
 
-## 🚀 What I Do
+<h2 align="center">🛠 Tech Stack</h2>
 
-✔ Build **modern business websites**
-✔ Develop **appointment booking systems**
-✔ Create **full-stack MERN applications**
-✔ Design **responsive and user-friendly interfaces**
-✔ Develop **custom solutions for small businesses**
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,postman,vscode" />
 
-## 🛠 Tech Stack
-
-**Frontend**
-React.js • JavaScript • HTML5 • CSS3
-
-**Backend**
-Node.js • Express.js
-
-**Database**
-MongoDB
-
-**Tools & Technologies**
-Git • GitHub • Postman • REST APIs
+</p>
 
 ---
 
-## 💼 Projects
+<h2 align="center">💼 Featured Projects</h2>
 
-Here are some of the applications I have developed:
+<p align="center">
 
-• **Salon Booking System** – Online appointment booking platform
-• **Restaurant Ordering Website** – Digital ordering system
-• **Gym Membership Website** – Membership and trainer booking platform
-• **AI Chatbot Application** – Automated customer interaction system
+🚀 <b>Salon Booking System</b>  
+Online appointment booking platform for salons
+
+🍔 <b>Restaurant Ordering Website</b>  
+Digital ordering system for restaurants
+
+🏋️ <b>Gym Membership Website</b>  
+Membership and trainer booking platform
+
+🤖 <b>AI Chatbot Application</b>  
+Automated customer support chatbot
+
+</p>
 
 ---
 
-## 📈 Currently Focused On
+<h2 align="center">📊 GitHub Stats</h2>
 
-• Building **real-world MERN stack applications**
-• Creating **high-quality portfolio projects**
-• Helping businesses **digitize their services**
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sagar-S-Nikam&show_icons=true&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-S-Nikam&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
-📧 Email:sagarnikam7232@gmail.com
+<p align="center">
+
+📧 sagarnikam7232@gmail.com  
+
 💼 LinkedIn: your-linkedin-profile
 
+</p>
+
 ---
 
-⭐ **Open to freelance projects and collaboration**
+<h3 align="center">⭐ Open to freelance projects and collaboration</h3>
