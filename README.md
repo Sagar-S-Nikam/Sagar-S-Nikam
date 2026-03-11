@@ -1,8 +1,9 @@
- Hi 👋 I'm Sagar Nikam
+<h1 align="center">Hi 👋 I'm Sagar Nikam</h1>
+<h3 align="center">Full Stack MERN Developer | Software Engineer Intern at Cognizant</h3>
 
-💻 **Full Stack MERN Developer**
-🏢 **Software Engineer Intern at Cognizant**
-🌍 **Building modern, scalable websites for businesses and startups**
+<p align="center">
+🚀 I build modern websites for businesses and startups
+</p>
 
 I specialize in developing **high-performance web applications** that help businesses improve their online presence, automate bookings, and increase customer engagement.
 
